@@ -41,6 +41,7 @@ object BotResponse {
                     0 -> "Hello there!"
                     1 -> "Sup"
                     2 -> "Buongiorno!"
+                    3 -> "Hola L***"
                     else -> "error" }
             }
 
@@ -50,6 +51,7 @@ object BotResponse {
                     0 -> "I'm doing fine, thanks!"
                     1 -> "I'm hungry..."
                     2 -> "Pretty good! How about you?"
+                    3 -> "I am Exploring Parul Unversity"
                     else -> "error"
                 }
             }
